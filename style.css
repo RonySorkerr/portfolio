@@ -44,11 +44,41 @@ body{
     /* box-shadow: 0px 0px 10px red; */
     animation-name: animate;
     animation-iteration-count: infinite;
-    animation-duration: 4s;
+    animation-duration: 3s;
 }
 
-.caard{
-    background-image: url(images/backg.jfif);
-    opacity: 50%;
+.caard-html{
+    background-image: url(images/html.jpeg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 80%;
+    color: white;
+}
+
+.caard-css{
+    background-image: url(images/css3.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 80%;
+    color: white;
+}
+
+.caard-boot{
+    background-image: url(images/bootstrap.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 80%;
+    color: white;
+}
+
+.caard-javas{
+    background-image: url(images/javascript.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 80%;
     color: white;
 }
