@@ -29,6 +29,7 @@ body{
     animation-name: opac;
     animation-iteration-count: 1;
     animation-duration: 3s;
+    animation-timing-function:ease-in;
 }
 
 @keyframes animate {
