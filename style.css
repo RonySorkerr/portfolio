@@ -1,6 +1,8 @@
 
   @import url('https://fonts.googleapis.com/css2?family=Mrs+Saint+Delafield&display=swap');
   @import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Redressed&family=Young+Serif&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans&display=swap');
 
 
   /* font-family: 'Mrs Saint Delafield', cursive; */
@@ -83,4 +85,12 @@ body{
     background-position: center;
     opacity: 80%;
     color: white;
+}
+
+.jum{
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 20px;
 }
