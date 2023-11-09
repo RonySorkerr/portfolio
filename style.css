@@ -55,6 +55,22 @@ body{
     animation-duration: 3s;
 }
 
+.caard-word{
+    background-image: url(images/word.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 100%;
+}
+
+.caard-excel{
+    background-image: url(images/excel.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 100%;
+}
+
 .caard-html{
     background-image: url(images/html.jpeg);
     background-size: contain;
